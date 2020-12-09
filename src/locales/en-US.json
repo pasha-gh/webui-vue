@@ -487,7 +487,7 @@
   },
   "pageProfileSettings": {
     "browserOffset": "Browser offset (%{timezone})",
-    "changePassword": "Change passwford",
+    "changePassword": "Change password",
     "confirmPassword": "Confirm new password",
     "defaultUTC": "Default (UTC)",
     "newPassword": "New password",
